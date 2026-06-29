@@ -1,0 +1,15 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# npm (se mai si installeranno dipendenze)
+node_modules/
+
+# Log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
