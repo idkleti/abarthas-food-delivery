@@ -1,8 +1,8 @@
 # Abarthas
 
-Sito di food delivery per un'azienda fittizia. Progetto realizzato per il corso di Tecnologie Web a UNIFE.
+Sito di food delivery per un'azienda fittizia.
 
-Stack: PHP 8, MySQL/MariaDB, Bootstrap 5, vanilla JS. Niente framework, niente Composer: gira su un classico XAMPP.
+Stack: PHP 8, MySQL, Bootstrap 5, vanilla JS. Niente framework, niente Composer: gira su un classico XAMPP.
 
 ## Cosa c'è dentro
 
